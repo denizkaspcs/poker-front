@@ -1,0 +1,40 @@
+.enter-bubble {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+label {
+  font-size: x-large;
+  font-weight: 500;
+  margin-top: 2vh;
+}
+
+input {
+  height: 3vh;
+  width: 25vh;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 0.637);
+}
+
+.close-button {
+  text-align: right;
+  padding-top: 7px;
+  padding-right: 7px;
+}
+
+.blind label {
+  margin-left: 5px;
+}
+
+.blind input {
+  margin-top: 15px;
+  width: 8vh;
+}
+
+.enter-bubble button {
+  margin-top: 20px;
+  width: 25vh;
+  height: 3vh;
+}

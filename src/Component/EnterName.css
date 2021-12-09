@@ -1,0 +1,16 @@
+.enter-name {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.enter-name button {
+  margin-top: 10px;
+  width: 15vh;
+  height: 3vh;
+}
+
+.enter-name input {
+  margin-top: 10px;
+}
